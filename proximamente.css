@@ -1,0 +1,14 @@
+h1 {
+	text-align: center;
+	padding-top: 300px;
+}
+
+.boton {
+	text-decoration: none;
+	padding-top: 120px;
+	text-align: center;
+}
+
+.boton a:hover {
+	cursor: crosshair;
+}
